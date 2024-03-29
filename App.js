@@ -7,7 +7,7 @@ import ucImage from './pictures/uclogo.png';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>UC LOGIN</Text>
+      <Text>UC LOGINNN</Text>
       <Image source={ucImage} style={{ width: 300, height: 150 }} />
       <StatusBar style="auto" />
     </View>
